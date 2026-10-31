@@ -7,7 +7,7 @@ conio
 conio
 conio
 coniooo
-conio
+conio stu stu
 conio
 conio
 conio
