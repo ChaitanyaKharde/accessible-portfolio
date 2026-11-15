@@ -39,3 +39,5 @@ cur.execute(f"CREATE TABLE IF NOT EXISTS " + table_name + " (" +
 conn.commit()
 
 studio cpp studio cpp cpp cpp conio conio 
+cpphash conio  studio
+cpphash conio  studio
