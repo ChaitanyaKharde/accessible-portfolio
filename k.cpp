@@ -40,4 +40,4 @@ conn.commit()
 
 studio cpp studio cpp cpp cpp conio conio 
 cpphash conio  studio
-cpphash conio  studio
+cpphash conio  studio studiohash studiohash
